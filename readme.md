@@ -1,2 +1,3 @@
-Guia de ejercicios sobre JavaScript
-Cada  archivo .js contiene una serie de  resoluciones, acorde a cada enunciado.
+Excercise guide JavaScript
+Each file .js containe a number of resolutions.
+All the answer are display in the console.
